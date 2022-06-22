@@ -2,7 +2,7 @@
 
 First steps with Java starting from scratch.
 
-1.Main java concepts
+1.academy.javadojo.introduction.Main java concepts
 
 2.OOPS in Java
 
